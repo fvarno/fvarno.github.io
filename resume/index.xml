@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resumes on Farshid Varno</title>
+    <link>/resume/</link>
+    <description>Recent content in Resumes on Farshid Varno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2022 Farshid Varno | Credits to Somrat</copyright><atom:link href="/resume/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Farshid Varno</title>
+      <link>/resume/farshid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resume/farshid/</guid>
+      <description>Intro I&amp;rsquo;m a Research Scientist with a strong technical background in HW/SW co-design and Edge AI.</description>
+    </item>
+    
+  </channel>
+</rss>
