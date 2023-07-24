@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <priority>0</priority>
+  </url><url>
     <loc>/blog/adabest/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -32,14 +36,14 @@
     <loc>/categories/open-source/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
     <loc>/tags/research/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>/call-to-action/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>/funfacts/</loc>
     <priority>0</priority>
@@ -52,8 +56,6 @@
     <loc>/banner/</loc>
   </url><url>
     <loc>/about/</loc>
-  </url><url>
-    <loc>/call-to-action/</loc>
   </url><url>
     <loc>/service/</loc>
   </url>
