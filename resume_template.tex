@@ -25,6 +25,7 @@ $if(linestretch)$
 \setstretch{$linestretch$}
 $endif$
 \usepackage[margin=.5in]{geometry}
+% \geometry{top=1in, bottom=1in, left=1in, right=1in} % Customize margins here
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{metalogo}
@@ -478,4 +479,7 @@ $for(include-after)$
 $include-after$
 
 $endfor$
+\renewcommand{\thefootnote}{}
+\footnotetext{This resume is compiled using \LaTeX\ and is also available in HTML format at \href{https://farshid.varnio.com/resume/farshid/index.html}{https://farshid.varnio.com/resume/farshid/index.html}}
+\renewcommand{\thefootnote}{\arabic{footnote}}
 \end{document}
