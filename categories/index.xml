@@ -2,42 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Farshid Varno</title>
-    <link>/categories/</link>
+    <link>//localhost:1313/categories/</link>
     <description>Recent content in Categories on Farshid Varno</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Farshid Varno | Credits to Somrat</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>design</title>
-      <link>/categories/design/</link>
+      <title>Design</title>
+      <link>//localhost:1313/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/categories/design/</guid>
+      <guid>//localhost:1313/categories/design/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>development</title>
-      <link>/categories/development/</link>
+      <title>Development</title>
+      <link>//localhost:1313/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/categories/development/</guid>
+      <guid>//localhost:1313/categories/development/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>open-source</title>
-      <link>/categories/open-source/</link>
+      <title>Open-Source</title>
+      <link>//localhost:1313/categories/open-source/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/categories/open-source/</guid>
+      <guid>//localhost:1313/categories/open-source/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

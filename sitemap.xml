@@ -1,114 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/portfolio/</loc>
+    <loc>//localhost:1313/portfolio/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/adabest/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/adabest/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/artificialintelligence/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/artificialintelligence/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/design/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/development/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/federatedlearning/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/federatedlearning/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/portfolio/fedsim/</loc>
+  </url><url>
+    <loc>//localhost:1313/portfolio/fedsim/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/open-source/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/open-source/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/research/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/research/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/call-to-action/</loc>
+  </url><url>
+    <loc>//localhost:1313/funfacts/</loc>
+  </url><url>
+    <loc>//localhost:1313/testimonial/</loc>
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+  </url><url>
+    <loc>//localhost:1313/banner/</loc>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/resume/</loc>
+  </url><url>
+    <loc>//localhost:1313/service/</loc>
   </url>
-  
-  <url>
-    <loc>/call-to-action/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/funfacts/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/testimonial/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/resume/farshid/</loc>
-  </url>
-  
-  <url>
-    <loc>/resume/farshid_cv/</loc>
-  </url>
-  
-  <url>
-    <loc>/banner/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/resume/</loc>
-  </url>
-  
-  <url>
-    <loc>/service/</loc>
-  </url>
-  
 </urlset>

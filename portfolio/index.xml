@@ -2,24 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farshid Varno</title>
-    <link>/portfolio/</link>
+    <link>//localhost:1313/portfolio/</link>
     <description>Recent content on Farshid Varno</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Farshid Varno | Credits to Somrat</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
-    
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FedSim</title>
-      <link>/portfolio/fedsim/</link>
+      <link>//localhost:1313/portfolio/fedsim/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/portfolio/fedsim/</guid>
-      <description>Fedsim is a generic Federated Learning Simulator.</description>
+      <guid>//localhost:1313/portfolio/fedsim/</guid>
+      <description>&lt;p&gt;Fedsim is a generic Federated Learning Simulator.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,42 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Farshid Varno</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Farshid Varno</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Farshid Varno | Credits to Somrat</copyright>
     <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>artificialintelligence</title>
-      <link>/tags/artificialintelligence/</link>
+      <title>Artificialintelligence</title>
+      <link>//localhost:1313/tags/artificialintelligence/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/artificialintelligence/</guid>
+      <guid>//localhost:1313/tags/artificialintelligence/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>federatedlearning</title>
-      <link>/tags/federatedlearning/</link>
+      <title>Federatedlearning</title>
+      <link>//localhost:1313/tags/federatedlearning/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/federatedlearning/</guid>
+      <guid>//localhost:1313/tags/federatedlearning/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>research</title>
-      <link>/tags/research/</link>
+      <title>Research</title>
+      <link>//localhost:1313/tags/research/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>/tags/research/</guid>
+      <guid>//localhost:1313/tags/research/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
