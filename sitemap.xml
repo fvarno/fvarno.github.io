@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/adabest/</loc>
+    <loc>http://localhost:1313/blog/adabest/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/artificialintelligence/</loc>
+    <loc>http://localhost:1313/tags/artificialintelligence/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/blog/</loc>
+    <loc>http://localhost:1313/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/design/</loc>
+    <loc>http://localhost:1313/categories/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/development/</loc>
+    <loc>http://localhost:1313/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/federatedlearning/</loc>
+    <loc>http://localhost:1313/tags/federatedlearning/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/portfolio/fedsim/</loc>
+    <loc>http://localhost:1313/portfolio/fedsim/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/open-source/</loc>
+    <loc>http://localhost:1313/categories/open-source/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/research/</loc>
+    <loc>http://localhost:1313/tags/research/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/call-to-action/</loc>
+    <loc>http://localhost:1313/call-to-action/</loc>
   </url><url>
-    <loc>//localhost:1313/funfacts/</loc>
+    <loc>http://localhost:1313/funfacts/</loc>
   </url><url>
-    <loc>//localhost:1313/testimonial/</loc>
+    <loc>http://localhost:1313/testimonial/</loc>
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>//localhost:1313/banner/</loc>
+    <loc>http://localhost:1313/banner/</loc>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>//localhost:1313/resume/</loc>
+    <loc>http://localhost:1313/resume/</loc>
   </url><url>
-    <loc>//localhost:1313/service/</loc>
+    <loc>http://localhost:1313/service/</loc>
   </url>
 </urlset>
