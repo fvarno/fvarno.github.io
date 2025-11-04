@@ -43,19 +43,23 @@ $endif$
 \renewcommand{\href}[3][blue]{\oldhref{#2}{\color{#1}{#3}}}
 
 \renewcommand{\maketitle}{
-	\hspace{.25\textwidth}
-	\begin{minipage}[t]{.5\textwidth}
-\par{\centering{\Huge  \bfseries{\thetitle}}\par}
-	\end{minipage}
-	\begin{minipage}[t]{.25\textwidth}
-%{\footnotesize\hfill{}\color{gray}
-%\hfill{}Download this document:
-%
-%\hfill{}\href[gray]{https://LukeSmith.xyz/cv.pdf}{https://LukeSmith.xyz/cv.pdf \pdf}
-%
-%\hfill{}(Last updated \thedate.)
-%}
-	\end{minipage}
+\begin{center}
+{\Huge\bfseries\thetitle\par}
+\vspace{.65em}
+\footnotesize
+\begingroup
+  \setlength{\tabcolsep}{14pt}
+  \renewcommand{\arraystretch}{1.2}
+  \begin{tabular}{@{}l@{\hspace{1.8em}}l@{\hspace{1.8em}}l@{}}
+    $if(phone)$\textbf{Phone:}~$phone$$else$\mbox{}$endif$ &
+    $if(email)$\textbf{Email:}~$email$$else$\mbox{}$endif$ &
+    $if(website)$\textbf{Website:}~\href{$website$}{$website$}$else$\mbox{}$endif$ \\
+    $if(linkedin)$\textbf{LinkedIn:}~\href{$linkedin$}{$linkedin$}$else$\mbox{}$endif$ &
+    $if(github)$\textbf{GitHub:}~\href{$github$}{$github$}$else$\mbox{}$endif$ &
+    
+  \end{tabular}
+\endgroup
+\end{center}
 }
 
 % Link images
