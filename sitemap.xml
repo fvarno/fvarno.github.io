@@ -2,59 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>https://farshid.varnio.com/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://farshid.varnio.com/blog/adabest/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/adabest/</loc>
+    <loc>https://farshid.varnio.com/tags/artificialintelligence/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/artificialintelligence/</loc>
+    <loc>https://farshid.varnio.com/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://farshid.varnio.com/categories/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://farshid.varnio.com/categories/design/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/design/</loc>
+    <loc>https://farshid.varnio.com/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/development/</loc>
+    <loc>https://farshid.varnio.com/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://farshid.varnio.com/tags/federatedlearning/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/federatedlearning/</loc>
+    <loc>https://farshid.varnio.com/portfolio/fedsim/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/portfolio/fedsim/</loc>
+    <loc>https://farshid.varnio.com/categories/open-source/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/open-source/</loc>
+    <loc>https://farshid.varnio.com/tags/research/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/research/</loc>
+    <loc>https://farshid.varnio.com/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <loc>https://farshid.varnio.com/call-to-action/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/call-to-action/</loc>
+    <loc>https://farshid.varnio.com/funfacts/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/funfacts/</loc>
+    <loc>https://farshid.varnio.com/testimonial/</loc>
+    <priority>0</priority>
   </url><url>
-    <loc>http://localhost:1313/testimonial/</loc>
+    <loc>https://farshid.varnio.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://farshid.varnio.com/banner/</loc>
   </url><url>
-    <loc>http://localhost:1313/banner/</loc>
+    <loc>https://farshid.varnio.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/resume/</loc>
-  </url><url>
-    <loc>http://localhost:1313/service/</loc>
+    <loc>https://farshid.varnio.com/service/</loc>
   </url>
 </urlset>

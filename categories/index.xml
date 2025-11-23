@@ -2,33 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Farshid Varno</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://farshid.varnio.com/categories/</link>
     <description>Recent content in Categories on Farshid Varno</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Farshid Varno | Credits to Somrat</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://farshid.varnio.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Design</title>
-      <link>http://localhost:1313/categories/design/</link>
+      <title>design</title>
+      <link>https://farshid.varnio.com/categories/design/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/categories/design/</guid>
+      
+      <guid>https://farshid.varnio.com/categories/design/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <title>development</title>
+      <link>https://farshid.varnio.com/categories/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/categories/development/</guid>
+      
+      <guid>https://farshid.varnio.com/categories/development/</guid>
       <description></description>
     </item>
+    
     <item>
-      <title>Open-Source</title>
-      <link>http://localhost:1313/categories/open-source/</link>
+      <title>open-source</title>
+      <link>https://farshid.varnio.com/categories/open-source/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      <guid>http://localhost:1313/categories/open-source/</guid>
+      
+      <guid>https://farshid.varnio.com/categories/open-source/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
